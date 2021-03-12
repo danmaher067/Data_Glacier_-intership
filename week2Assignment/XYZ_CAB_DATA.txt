@@ -1,0 +1,187 @@
+
+
+***********************
+Hypothesis:
+Price Charged is dependant on Km Travelled
+ATLANTA GA 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+AUSTIN TX 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+BOSTON MA 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+CHICAGO IL 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+DALLAS TX 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+DENVER CO 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+LOS ANGELES CA 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+MIAMI FL 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+NASHVILLE TN 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+NEW YORK NY 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+ORANGE COUNTY 
+Price Charged is dependant on Km Travelled ('p value is ', 3.3200210530421687e-06) Dependent (reject H0)
+
+PHOENIX AZ 
+Price Charged is dependant on Km Travelled ('p value is ', 0.9999999999999999)Independent (H0 holds true)
+
+PITTSBURGH PA 
+Price Charged is dependant on Km Travelled ('p value is ', 1.1220751129082024e-06) Dependent (reject H0)
+
+SACRAMENTO CA 
+Price Charged is dependant on Km Travelled ('p value is ', 0.9999950424303153)Independent (H0 holds true)
+
+SAN DIEGO CA 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+SEATTLE WA 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+SILICON VALLEY 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+TUCSON AZ 
+Price Charged is dependant on Km Travelled ('p value is ', 0.9999999999878039)Independent (H0 holds true)
+
+WASHINGTON DC 
+Price Charged is dependant on Km Travelled ('p value is ', 1.0)Independent (H0 holds true)
+
+************************
+
+***********************
+Hypothesis:
+More KM travelled by the older the customer 
+ATLANTA GA 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+AUSTIN TX 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+BOSTON MA 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+CHICAGO IL 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+DALLAS TX 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+DENVER CO 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+LOS ANGELES CA 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+MIAMI FL 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+NASHVILLE TN 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+NEW YORK NY 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+ORANGE COUNTY 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+PHOENIX AZ 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+PITTSBURGH PA 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+SACRAMENTO CA 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+SAN DIEGO CA 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+SEATTLE WA 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+SILICON VALLEY 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+TUCSON AZ 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+WASHINGTON DC 
+More KM travelled by the older the customer  ('p value is ', 0.0) Dependent (reject H0)
+
+************************
+
+***********************
+Hypothesis:
+The more money earned by the customer the greater the distance
+ATLANTA GA 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+AUSTIN TX 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+BOSTON MA 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+CHICAGO IL 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+DALLAS TX 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+DENVER CO 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+LOS ANGELES CA 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+MIAMI FL 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+NASHVILLE TN 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+NEW YORK NY 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+ORANGE COUNTY 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+PHOENIX AZ 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+PITTSBURGH PA 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+SACRAMENTO CA 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+SAN DIEGO CA 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+SEATTLE WA 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+SILICON VALLEY 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+TUCSON AZ 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+WASHINGTON DC 
+The more money earned by the customer the greater the distance ('p value is ', 0.0) Dependent (reject H0)
+
+************************
